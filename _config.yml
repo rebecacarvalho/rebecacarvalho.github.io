@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Rebeca Carvalho"
-  avatar           : "images/img_rebeca.png"
+  avatar           : "images/img_rebeca.jpeg"
   bio              : "M.A. in Public Administration (FGV) and B.A. in Social Sciences (USP). Currently a research assistant at FGV Cepesp and in the Solidarity Research Network"
   location         : "São Paulo, Brazil"
-  employer         : "Fgv Cepesp | Solidarity Research Network"
+  #employer         : "Fgv Cepesp | Solidarity Research Network"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=f4701bgAAAAJ"
   email            : "rebeca.jesus.carvalho@gmail.com"
